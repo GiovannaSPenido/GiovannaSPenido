@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-    <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=GiovannaSPenido&show_icons=true&theme=synthwave">
-    <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSPenido&langs_count=10&layout=compact&theme=synthwave&hide_border=true"/>
+    <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GiovannaSPenido&show_icons=true&theme=synthwave">
+    <img height="170em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSPenido&langs_count=10&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
