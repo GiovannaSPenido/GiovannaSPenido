@@ -1,4 +1,4 @@
-<h2 align="Center"> 👋🌺 Hello, Hola, Ciao, Salut, Olá!</h2>
+<h1 align="Center"> 👋🌺 Hello, Hola, Ciao, Salut, Olá!</h1>
 <h4 align="Center">Eu sou a Giovanna, uma estudante de Ciência da Computação dedicada a aprender sobre o mundo digital.</h4>
 <h2><em>🚀Skills</em></h3>
 <div style="display: inline_block" align="center">
@@ -16,4 +16,3 @@
     <img height="196em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSPenido&langs_count=10&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
--> em desenvolvimento ⚙️
