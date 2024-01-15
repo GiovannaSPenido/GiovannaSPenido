@@ -1,6 +1,8 @@
-<h1 align="Center"> 👋🌺 Hello, Hola, Ciao, Salut, Olá!</h1>
-<h4 align="Center">Eu sou a Giovanna, uma estudante de Ciência da Computação dedicada a aprender sobre o mundo digital.</h4>
-<h2><em>🚀Skills</em></h3>
+<h1 align="Center"> 👋 Hello, Hola, Ciao, Salut, Olá!</h1>
+<h3 align="Center">Prazer eu sou a Giovanna Penido, uma estudante de Ciência da Computação dedicada a aprender sobre o mundo digital.</h3>
+<p align="Center">Sinto um entusiasmo contagiante ao mergulhar nos códigos e algoritmos que permeiam meu cotidiano!
+ Acredito firmemente na importância da presença feminina no universo tecnológico, e sempre busco desafiar estereótipos e inspirar outras mulheres a se aventurarem nesse campo fascinante. Cada linha de código que escrevo é uma afirmação de que as mulheres não só pertencem, mas também prosperam na Ciência da Computação. 👩‍💻</p>
+<h2>🚀Skills</h3>
 <div style="display: inline_block" align="center">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
